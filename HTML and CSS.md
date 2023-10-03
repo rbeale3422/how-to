@@ -36,7 +36,7 @@
 </html>
 ```
 
-## ## Use Visual Studio Code to edit your new website
+## Use Visual Studio Code to edit your new website
 
 1. Ensure your **Account** is linked and syncing to GitHub
 
