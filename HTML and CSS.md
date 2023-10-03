@@ -18,7 +18,7 @@
 
 - **CSS** stands for Cascading Style Sheets
 
-##**HTML**
+## **HTML**
 
 ```html
 <!DOCTYPE html>
@@ -68,7 +68,7 @@
 
 5. **Save** your file if you do not have autosave feature enabled (keyboard shortcut: `Ctrl + S`)
 
-## CSS
+## **CSS**
 
 ```css
 body {
